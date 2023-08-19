@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution](https://github.com/Tabebash/3-columns-preview)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Live Site URL: [live site](https://tabebash.github.io/3-columns-preview/)
 
 ### Built with
 
